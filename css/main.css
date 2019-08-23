@@ -1,0 +1,24 @@
+body {
+    background-color:lightcyan;
+    margin: 0;
+}
+
+/* Targeting a class in CSS - every elment with the class of header will recieve these CSS rules */
+.header {
+    background-color: lightcoral;
+    
+}
+
+a  {
+        color: white;
+        text-decoration: none;
+       }
+
+.headerRight {
+    float: right; 
+}
+
+.headerLeft{
+
+}
+
