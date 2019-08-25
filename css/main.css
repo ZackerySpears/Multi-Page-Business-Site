@@ -18,7 +18,26 @@ a  {
     float: right; 
 }
 
-.headerLeft{
+.headerLeft {
 
 }
 
+h1{
+    text-align: center;
+    
+    border-style:dotted;
+    border-color:lightcoral; 
+    
+}
+
+  
+  a:visited {
+    background-color: lightcoral;
+  }
+  
+  a:hover {
+    background-color: grey;
+  }
+
+  
+ 
