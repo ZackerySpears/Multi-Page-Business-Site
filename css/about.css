@@ -1,4 +1,31 @@
-.logo2 {
-    width: 10in;
+
+
+.aboutHeader {
+    text-align: center;
+}
+.container {
+    margin: 20px;
+    display: inline-block;
+    border: 3px solid black;
+}
+
+.leftImage {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.rightImage {
+    width: 5in;
     height: auto;
+    float: right;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    
+}
+
+.container2 {
+    float: right;
+    margin: 20px;
+    display: inline-block;
+    border: 3px solid black;
 }
