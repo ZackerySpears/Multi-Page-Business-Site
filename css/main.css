@@ -50,5 +50,26 @@ footer{
   
 a {
   text-decoration: none;
+  Color:white;
+  
   }
+
+footer {
+  background-color: black;
+}
+
+.bottomLinks {
+  padding: 5px;
+  width: 100%;
+  font-size: 15pt;
+  display: block;
+
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
  
